@@ -1,4 +1,6 @@
 # Clustering - VRP
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/Clustering_K-Mean.svg?cache=remove)
+
 
 This project is a combination of Clustering & Vehicle Routine Problem. 
 
